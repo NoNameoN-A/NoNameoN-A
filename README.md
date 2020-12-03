@@ -2,6 +2,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NoNameoN-A)
 
 ![enter image description here](https://www.codewars.com/users/NoNameoN-A/badges/large)
+[Challenge Me 😈](www.codewars.com/r/r7i88Q)
 
 ## TikTok Bot 🤖
 [![TikTok Bot](https://github-readme-stats.vercel.app/api/pin/?username=NoNameoN-A&repo=TikTok-Follow-Heart-Views-Bot)](https://github.com/NoNameoN-A/TikTok-Follow-Heart-Views-Bot)
