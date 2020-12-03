@@ -1,7 +1,8 @@
 ## My Status 💯
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NoNameoN-A)
 
-# Challenge Me [Clicke here to sign up](www.codewars.com/r/r7i88Q)😈
+# Challenge Me😈
+SignUp: www.codewars.com/r/r7i88Q
 
 ![enter image description here](https://www.codewars.com/users/NoNameoN-A/badges/large)
 
