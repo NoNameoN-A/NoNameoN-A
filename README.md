@@ -13,6 +13,7 @@
 |Service|Provider|
 |--|--|
 |Videoconference|[Autistici/Inventati](https://vc.autistici.org/)|
+|Videoconference|[Jitsi](https://meet.jit.si/)|
 |WebServer|[Autistici/Inventati](https://vc.autistici.org/)|
 |Email|[Autistici/Inventati](https://vc.autistici.org/)|
 
