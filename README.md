@@ -17,7 +17,7 @@
 |WebServer|[Autistici/Inventati](https://vc.autistici.org/)|
 |Email|[Autistici/Inventati](https://vc.autistici.org/)|
 |Messaging Service|[Signal](https://signal.org/download/)|
-|Browser|[Tpr](https://www.torproject.org/download/)|
+|Browser|[Tor](https://www.torproject.org/download/)|
 
 ## Listen to Radio Ciroma while you develop | 105.7 fm 
 
