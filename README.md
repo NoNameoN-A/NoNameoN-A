@@ -28,6 +28,6 @@
 # Donation
 |Method|Address|
 |--|--|
-|**PayPal**|https://www.paypal.me/nonameon|
+|**GitHub**|https://github.com/sponsors/NoNameoN-A|
 |**BTC**|3QUVoehMFEnaAtRPHC9aRG85CdaNJx43Yd|
 |**ALGO**|6PYP5RWP547FYH6W2FZMI4A5Q6VWSXI3RE2BIEU5LWKFRVG3VX75YTVNEI|
