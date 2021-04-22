@@ -8,6 +8,7 @@ If you need support or private assistance contact me at the email alessandrogrec
 
 ## TikTok Bot 🤖
 [![TikTok Bot](https://github-readme-stats.vercel.app/api/pin/?username=NoNameoN-A&repo=TikTok-Follow-Heart-Views-Bot&show_icons=true&theme=dark)](https://github.com/NoNameoN-A/TikTok-Follow-Heart-Views-Bot)
+[![IPLogger](https://github-readme-stats.vercel.app/api/pin/?username=NoNameoN-A&repo=IP-Logger&show_icons=true&theme=dark)](https://github.com/NoNameoN-A/IP-Logger)
 
 ---
 
