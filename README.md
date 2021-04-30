@@ -22,6 +22,7 @@ If you need support or private assistance contact me at the email alessandrogrec
 |Email|[Autistici/Inventati](https://vc.autistici.org/)|
 |Messaging Service|[Signal](https://signal.org/download/)|
 |Browser|[Tor](https://www.torproject.org/download/)|
+|Files Share|[OnionShare](https://onionshare.org/)|
 
 ## Listen to Radio Ciroma while you develop | 105.7 fm 
 
