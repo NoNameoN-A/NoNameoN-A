@@ -1,7 +1,7 @@
 ## My Status 💯
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NoNameoN-A&show_icons=true&theme=dark)
 
-# Assistance
+## Assistance
 If you need support or private assistance contact me at the email alessandrogreco@hacari.org
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNoNameoN-A&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views+Count&edge_flat=false)](https://github.com/NoNameoN-A/)
@@ -28,8 +28,16 @@ If you need support or private assistance contact me at the email alessandrogrec
 
 [![Radio Ciroma](https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/radio_ciroma.png)](http://www.ciroma.org/)
 
+--- 
+## Storic Sponsors
+<a href="https://github.com/Apocalyps2001" target="_blank"><img src="https://avatars.githubusercontent.com/u/82934936?v=4" width="55" height="55"></a></br>
+<a href="https://github.com/zerenity23" target="_blank"><img src="https://avatars.githubusercontent.com/u/76807999?v=4" width="35" height="35"></a>
+<a href="https://github.com/mateo787" target="_blank"><img src="https://avatars.githubusercontent.com/u/70239893?v=4" width="35" height="35"></a>
+<a href="https://github.com/Cosentino108" target="_blank"><img src="https://avatars.githubusercontent.com/u/81426885?v=4" width="35" height="35"></a>
+<a href="https://github.com/mindofcam" target="_blank"><img src="https://avatars.githubusercontent.com/u/82601251?v=4" width="35" height="35"></a>
+<a href="https://github.com/London200" target="_blank"><img src="https://avatars.githubusercontent.com/u/69599253?v=4" width="35" height="35"></a>
+<a href="https://github.com/commander0" target="_blank"><img src="https://avatars.githubusercontent.com/u/24908568?v=4" width="35" height="35"></a>
 ---
-
 # Donation
 |Method|Address|
 |--|--|
