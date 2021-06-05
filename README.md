@@ -16,6 +16,7 @@ If you need support or private assistance contact me at the email alessandrogrec
 
 |Service|Provider|
 |--|--|
+|LiveStreaming|[Autistici/Inventati](https://www.autistici.org/docs/stream-obs)|
 |Videoconference|[Autistici/Inventati](https://vc.autistici.org/)|
 |Videoconference|[Jitsi](https://meet.jit.si/)|
 |WebServer|[Autistici/Inventati](https://vc.autistici.org/)|
