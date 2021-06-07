@@ -1,6 +1,5 @@
 ## My Status 💯
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NoNameoN-A&show_icons=true&theme=dark)</br>
-<a href="https://cri.it/" target="_blank"><img src="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/Volontario_CRI_7_giu_2021.png" width="100px" height="100px"></a></br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NoNameoN-A&show_icons=true&theme=dark)
 
 ## Assistance
 If you need support or private assistance contact me at the email alessandrogreco@hacari.org
