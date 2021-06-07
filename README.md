@@ -1,5 +1,6 @@
 ## My Status 💯
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NoNameoN-A&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NoNameoN-A&show_icons=true&theme=dark)</br>
+<a href="https://cri.it/" target="_blank"><img src="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/Volontario_CRI_7_giu_2021.png" width="100px" height="100px"></a></br>
 
 ## Assistance
 If you need support or private assistance contact me at the email alessandrogreco@hacari.org
@@ -8,7 +9,6 @@ If you need support or private assistance contact me at the email alessandrogrec
 
 ## TikTok Bot 🤖
 [![TikTok Bot](https://github-readme-stats.vercel.app/api/pin/?username=NoNameoN-A&repo=TikTok-Follow-Heart-Views-Bot&show_icons=true&theme=dark)](https://github.com/NoNameoN-A/TikTok-Follow-Heart-Views-Bot)</br>
-[![IPLogger](https://github-readme-stats.vercel.app/api/pin/?username=NoNameoN-A&repo=IP-Logger&show_icons=true&theme=dark)](https://github.com/NoNameoN-A/IP-Logger)
 
 ---
 
