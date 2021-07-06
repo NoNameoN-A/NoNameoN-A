@@ -12,7 +12,8 @@ If you need support or private assistance contact me at the email [alessandrogre
 
 # EFF Wallpaper
 I made this wallpeper with EFF Logo, use it for your Avatar and for your photos for support the initiative!
-<a href="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper.png" target="_blank"><img src="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper.png" width="586" height="320"></a>
+<a href="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper.png" target="_blank"><img src="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper.png" width="586" height="320"></a><br>
+<a href="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper%20white.png" target="_blank"><img src="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper%20white.png" width="586" height="320"></a>
 
 ---
 
