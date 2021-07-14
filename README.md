@@ -11,10 +11,15 @@ If you need support or private assistance contact me at the email [alessandrogre
 [![TikTok Bot](https://github-readme-stats.vercel.app/api/pin/?username=NoNameoN-A&repo=TikTok-Follow-Heart-Views-Bot&show_icons=true&theme=graywhite)](https://github.com/NoNameoN-A/TikTok-Follow-Heart-Views-Bot)</br>
 
 ---
+# [PRO] L.G.B.T.Q.I.A.+
+In favor of **Lesbian**, **Gay**, **Bisexual**, **Transgender**, **Queer** or **Questioning**, **Intersex**, **Asexual** and any other form of recognition of one's sexual orientation, in favor of love in all its possible, imaginable and unimaginable forms.<br><br>
+![L.G.B.T.Q.I.A.+](https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/L.G.B.T.Q.I.A.%2B.jpg)
 
-# EFF Wallpaper
-I made this wallpeper with EFF Logo, use it for your Avatar and for your photos for support the initiative!
-<a href="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper.png" target="_blank"><img src="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper.png" width="586" height="320"></a><br>
+---
+
+# [PRO] EFF - Wallpaper
+I made this wallpeper with EFF Logo, use it for your Avatar and for your photos for support the initiative!<br><br>
+<a href="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper.png" target="_blank"><img src="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper.png" width="586" height="320"></a><br><br>
 <a href="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper%20white.png" target="_blank"><img src="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper%20white.png" width="586" height="320"></a>
 
 ---
